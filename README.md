@@ -20,3 +20,8 @@
 '''objc
 [SMStatusBar showMessage:@"提示信息！"];
 '''
+
+##隐藏
+’‘’objc
+[SMStatusBar hide];
+‘’‘
