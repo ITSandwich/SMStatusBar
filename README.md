@@ -22,6 +22,6 @@
 '''
 
 ##隐藏
-’‘’objc
+objc
 [SMStatusBar hide];
-‘’‘
+
